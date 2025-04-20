@@ -9,7 +9,7 @@ Alguns teclados em português para o HeliBoard: **Hcesar**, **Br-Nativo** e **Ca
 [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get APK from GitHub" height="70">](https://github.com/Helium314/HeliBoard/releases/latest)
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="70">](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 
-
+---
 
 ## Hcesar
 
