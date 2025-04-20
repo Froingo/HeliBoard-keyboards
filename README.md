@@ -63,7 +63,7 @@ Teclado otimizado para a **língua portuguesa**, em homenagem aos **500 anos** d
 ---
  💡 **Sobre o projeto:**
 > Layouts de teclado pensados para a língua portuguesa — ergonómicos, históricos e culturais.  
-> Alternativa livres ao QWERTY/AZERTY, que respeitam a nossa língua. 🇵🇹📱
+> Alternativas livres ao QWERTY/AZERTY, que respeitam a nossa língua. 🇵🇹📱
 
 
 
