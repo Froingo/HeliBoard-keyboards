@@ -8,3 +8,5 @@ Alguns teclados em Portugues para o HeliBoard
 ## Teclados
 
 - Hcesar
+- Br-Nativo
+- Camoes
