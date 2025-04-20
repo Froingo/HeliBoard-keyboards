@@ -21,8 +21,13 @@ Vantagens:
 ![image](https://github.com/user-attachments/assets/3a660f80-8a63-4ddd-a98f-c3b9602ebd5b)
 
 Como Instalar num dispositivo Android?
-- 1ºPasso - Descarregar e instalar a Aplicação HeliBoard
-
+- Descarregar e instalar a aplicação HeliBoard
+- Ir a - Idiomas & Layouts
+- Desativar 'Usar idiomas do Sistema'
+- Na lista de idiomas selecionar: Nenhum idioma
+- Adicionar Layout com o botão + (costumizado)
+- Importar o seguinte ficheiro: hcesar.json
+  
 https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
 
 
