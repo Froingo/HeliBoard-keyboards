@@ -8,8 +8,20 @@ Alguns teclados em português para o HeliBoard
 ## Hcesar 
 Teclado português de máquinas de escrever (Portugal)
 
+Notas:
+- O layout Hcesar permite escrever a 20 WPM, o QWERTY é 2x mais rápido (40 WPM)!
+- A proximidade das letras: c/e, n/u, t/d, f/v pode, por vezes, causar erros de digitação.
+
+
+Vantagens:
+- As vogais estão organizadas tal como o diagrama vocálico (i-e-a-o-u)
+- As semi-vogais (letras y e w) encontram-se na 4ª linha.
+- Inclui ainda as aspas francesas/angulares « ».
 
 ![image](https://github.com/user-attachments/assets/3a660f80-8a63-4ddd-a98f-c3b9602ebd5b)
+
+Como Instalar num dispositivo Android?
+- 1ºPasso - Descarregar e instalar a Aplicação HeliBoard
 
 https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
 
