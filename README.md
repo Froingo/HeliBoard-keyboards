@@ -7,7 +7,13 @@ Alguns teclados em Portugues para o HeliBoard
 
 ## Teclados - Portuguese
 
+
+
+![image](https://github.com/user-attachments/assets/3a660f80-8a63-4ddd-a98f-c3b9602ebd5b)
 - Hcesar - teclado portugues de maquinas de escrever 1937-1971
 > descarregar: https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
+
+
+
 - Br-Nativo - teclado "dvorak" para a lingua portuguesa, disponivel em linux
 - Camoes - teclado optimizado para a lingua portuguesa, lançado nos 500 anos do poeta
