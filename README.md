@@ -7,6 +7,8 @@ Alguns teclados em Portugues para o HeliBoard
 
 ## Teclados
 
-- Hcesar
+- Hcesar - teclado portugues de maquinas de escrever 1937-1971
+descarregar: https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
+- 
 - Br-Nativo
 - Camoes
