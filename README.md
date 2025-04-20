@@ -20,7 +20,7 @@ Vantagens:
 
 ![image](https://github.com/user-attachments/assets/3a660f80-8a63-4ddd-a98f-c3b9602ebd5b)
 
-Como Instalar num dispositivo Android?
+Como Instalar no dispositivo Android?
 - Descarregar e instalar a aplicação HeliBoard
 - Ir a - Idiomas & Layouts
 - Desativar 'Usar idiomas do Sistema'
