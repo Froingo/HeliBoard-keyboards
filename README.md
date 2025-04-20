@@ -26,7 +26,7 @@ Como Instalar num dispositivo Android?
 - Desativar 'Usar idiomas do Sistema'
 - Na lista de idiomas selecionar: Nenhum idioma
 - Adicionar Layout com o botão + (costumizado)
-- Importar o seguinte ficheiro: hcesar.json
+- Importar o ficheiro: hcesar.json
   
 https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
 
