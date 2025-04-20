@@ -1,5 +1,5 @@
 # HeliBoard (Teclado)
-Alguns teclados em português para o HeliBoard
+Alguns teclados em português para o HeliBoard: Hcesar, Br-Nativo e Camoes.
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/helium314.keyboard/)
 [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get APK from GitHub" height="80">](https://github.com/Helium314/HeliBoard/releases/latest)
@@ -28,7 +28,12 @@ Como Instalar no dispositivo Android?
 - Adicionar Layout com o botão + (costumizado)
 - Importar o ficheiro: hcesar.json
   
-https://github.com/Froingo/HeliBoard-keyboards/blob/main/hcesar.json
+Por que escolher o Heliboard?
+- Teclado moderno de código aberto
+- Possui um dicionário PT-PT
+- É baseado no AOSP
+
+
 
 
 
