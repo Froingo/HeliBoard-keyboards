@@ -50,6 +50,10 @@ Teclado **"Dvorak"** adaptado para a língua portuguesa — disponível também 
 
 ![Br-Nativo](https://github.com/user-attachments/assets/02749682-1fa2-4975-9a5b-ce497cfa72fb)
 
+http://www.xahlee.info/kbd/pt-nativo_keyboard_layout.html
+
+https://pt.wikipedia.org/wiki/BR-Nativo
+
 ---
 
 ## 📜 Camões
@@ -59,6 +63,8 @@ Teclado otimizado para a **língua portuguesa**, em homenagem aos **500 anos** d
 🔍 Desenvolvido segundo um [estudo](https://www.mat.uc.pt/~pedro/cientificos/Cripto/CISUC-TR200803.pdf) da Universidade de Coimbra.
 
 ![Camoes](https://github.com/user-attachments/assets/44c0bbfe-1b62-4b34-8b61-3a7470b85d4c)
+
+https://keyman.com/keyboards/camoes
 
 ---
  💡 **Sobre o projeto:**
