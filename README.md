@@ -1,4 +1,4 @@
-# HeliBoard (Teclados)
+# HeliBoard (Teclado)
 Alguns teclados em Portugues para o HeliBoard
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/helium314.keyboard/)
